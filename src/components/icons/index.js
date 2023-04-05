@@ -1,0 +1,1 @@
+export {default as LogoLudiLove} from './icons/LogoLudiLove.svg';
